@@ -1,6 +1,7 @@
 <h1>Hi, I'm Eunice!  
 
-<h2>👨‍💻 Data Entry Specialist:</h2>
+<h2>👨‍💻 Data Entry Specialist, Junior Developer:</h2> 
+
 
 - <b>The Nigerian Healthcare System Crisis </b>
   - ([https://github.com/joshmadakor1/Algorithms-Practice](https://www.canva.com/design/DAGhKxt38cE/J3zObBQrquE4jHQsJlu7RQ/edit)
