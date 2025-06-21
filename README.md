@@ -54,27 +54,17 @@ I am committed to being a part of this transformative movement, developing the b
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge">
-   </div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Badge">
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white" alt="Google Workspace Badge">
   </div>
-  </div>
-  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Eunice-Kreatives]&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Eunice-Kreatives]&theme=radical&hide_border=true" alt="Your GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Eunice-Kreatives]&layout=compact&theme=radical&hide_border=true" alt="Your Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eunice-Kreatives&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eunice-Kreatives&theme=radical&hide_border=true" alt="Your GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eunice-Kreatives&layout=compact&theme=radical&hide_border=true" alt="Your Top Languages">
 </div>
 
 ---
@@ -84,10 +74,10 @@ I am committed to being a part of this transformative movement, developing the b
 I'm always open to connecting with fellow developers, AgriTech enthusiasts, and potential collaborators. Feel free to reach out!
 
 <div align="center">
-  <a href="mailto:[akpaeunice2242@gmail.com]" target="_blank">
+  <a href="mailto:akpaeunice2242@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/eunice-akpa/]" target="_blank">
+  <a href="https://linkedin.com/in/eunice-akpa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   </div>
