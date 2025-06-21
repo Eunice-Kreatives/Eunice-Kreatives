@@ -6,7 +6,7 @@
 <h1 align="center">Hi there 👋 I'm [Eunice]!</h1>
 
 <p align="center">
-  Welcome to my digital workspace! I'm  an Administartive Virtual Assistant that excels in Email and Calendar Management, Data Entry, Research and an aspiring Backend Developer currently immersed in the rigorous <strong>ALX Backend Development program</strong>, driven by an unwavering passion to build robust, scalable, and impactful software solutions. My journey into software engineering wasn't just about code; it was ignited by a profound belief in the transformative power of technology, particularly within a sector close to my heart: <strong>AgriTech</strong>.
+  Welcome to my digital workspace! I'm  an Administrative Virtual Assistant that excels in Email and Calendar Management, Data Entry, Research and an aspiring Backend Developer currently immersed in the rigorous <strong>ALX Backend Development program</strong>, driven by an unwavering passion to build robust, scalable, and impactful software solutions. My journey into software engineering wasn't just about code; it was ignited by a profound belief in the transformative power of technology, particularly within a sector close to my heart: <strong>AgriTech</strong>.
 </p>
 
 ---
