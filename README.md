@@ -12,7 +12,7 @@
 - (https://youtu.be/vPy323l71OU?si=_M5CGi9wrIwQoGZ_)
 
 <h2>📺 Skills and Expertise</h2>
--(Microsoft Tools, Google workspace, SQL)
+-(Microsoft Tools, Google workspace, Python, SQL)
 
 <h2> 🤳 Connect with me:</h2>
 
