@@ -25,7 +25,7 @@ Through the ALX program, I am honing my skills to bring this vision to life, one
 
 Currently, I'm diving deep into:
 
-* **Core Backend Technologies:** (e.g., Python, Django - *Customize based on your ALX curriculum*)
+* **Core Backend Technologies:** (e.g., Python, Django, SGL)
 * **System Design & Architecture:** Understanding how to build scalable and resilient systems.
 * **Version Control:** Mastering Git and GitHub for collaborative development.
 
